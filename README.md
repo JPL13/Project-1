@@ -12,13 +12,13 @@ The code was written with Python 3. There should be no necessary libraries to ru
 
 ## Project Motivation<a name="motivation"></a>
 
-For this project, I was interestested in using the most recent  3 years of Stack Overflow data from 2018 to 2020 to better understand:
+For this project, I was interestested in using the most recent  3 years of Stack Overflow data from 2018 to 2020 to better understand
+Data Scientists, Data Engineers, Data Analysts and Software Developers:
 
-1. How other developers suggested breaking into the field (what education to pursue)?
-2. What factors about an individual contributed to salary?
-3. How bias played a role in the suggestions of developers for how to break into the field?
-4. What was the state of bootcamps for assisting individuals with breaking into developer roles?
-5. How were bootcamps assisting with increasing diversity in tech careers?
+1. What are the trends in the job market? Are data-related jobs rapidly increasing? 
+2. Are there any difference between Data Scientists, Data Engineers, Data Analysts and Software Developers in terms of salary?
+3. How satisfied are they? How many want to leave their current job? What factors are the most important for them when it comes to choosing a new job? 
+4. What languages did they use the most?
 
 
 ## File Descriptions <a name="files"></a>
