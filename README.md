@@ -16,10 +16,9 @@ For this project, I was interestested in using the most recent  3 years of Stack
 Data Scientists, Data Engineers, Data Analysts and Software Developers:
 
 1. What are the trends in the job market? Are data-related jobs rapidly increasing? 
-2. Are there any difference between Data Scientists, Data Engineers, Data Analysts and Software Developers in terms of salary?
-3. How satisfied are they? How many want to leave their current job? What factors are the most important for them when it comes to choosing a new job? 
-4. What languages did they use the most?
-
+2. Is there any difference between the four professions in terms of salary?
+3. What about job satisfaction? How many respondents want to leave their current job? Which factors are most important when choosing a new job? 
+4. What languages and databases are used most for each role?
 
 ## File Descriptions <a name="files"></a>
 
@@ -27,7 +26,7 @@ There is 1 notebook available here to showcase work related to the above questio
 
 ## Results<a name="results"></a>
 
-The main findings of the code can be found at the post available [here]().
+The main findings of the code can be found at the post available [here](https://medium.com/@xiaoruyue1986/how-do-you-choose-software-engineer-data-scientist-data-engineer-or-data-analyst-1cc5ec47dff2?sk=23fb99241839aa8a31f6fcfe1f3b169c).
 
 ## Licensing, Authors, Acknowledgements<a name="licensing"></a>
 
