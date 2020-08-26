@@ -5,7 +5,7 @@
 3. [Project Motivation](#motivation)
 4. [Overview](#overview)
 5. [Methodology](#methods)
-6. [Summary](#summery)
+6. [Summary](#summary)
 7. [Publication](#results)
 8. [Licensing, Authors, and Acknowledgements](#licensing)
 
@@ -67,10 +67,13 @@ Are there differences between data-related roles and software engineers in terms
 In this analysis, I looked at responses from the three most recent Stack Overflow Developer Surveys to find the proportion of people who work at Data Scientist, Data Engineer, Data Analyst, and Software Developer jobs and compared their salaries, job satisfaction, job seeking status, and the technical tools they use.
 My main takeaways are the following:
 
--“Classic” Software Developer roles outnumber data-related roles. Certain Software Developer roles have been steadily increasing over the past three years, but the numbers for Data Scientists, Data Engineers and Data Analysts didn’t have a major change.
--The salaries for Data Scientists, Data Engineers, Data Analysts, and Software Developers have been increasing over the past three years in the US. The highest paying job in the US is Data Scientist and Data Engineer, followed by Software Developer and Data Analyst. Developers in the US are paid more than their counterparts in other countries.
--Data Scientists, Data Engineers, Data Analysts, and Software Developers are all generally happy at their jobs with Data Scientists having the highest satisfaction rate. Among these professionals, around 20% are actively looking for new jobs. For Software Developers and Data Engineers, technologies they would be working with is the main factor when choosing a new job. For others, “Opportunities for professional development” is the most important factor.
--The most used language for Software Developers and Data Engineers is Java. For Data Scientists it is Python, and for Data Analysts it is SQL. C is a close second for all four groups. In terms of databases, MySQL, PostgreSQL, Microsoft SQL server, and SQLite are the top 4 among all groups.
+- “Classic” Software Developer roles outnumber data-related roles. Certain Software Developer roles have been steadily increasing over the past three years, but the numbers for Data Scientists, Data Engineers and Data Analysts didn’t have a major change.
+
+- The salaries for Data Scientists, Data Engineers, Data Analysts, and Software Developers have been increasing over the past three years in the US. The highest paying job in the US is Data Scientist and Data Engineer, followed by Software Developer and Data Analyst. Developers in the US are paid more than their counterparts in other countries.
+
+- Data Scientists, Data Engineers, Data Analysts, and Software Developers are all generally happy at their jobs with Data Scientists having the highest satisfaction rate. Among these professionals, around 20% are actively looking for new jobs. For Software Developers and Data Engineers, technologies they would be working with is the main factor when choosing a new job. For others, “Opportunities for professional development” is the most important factor.
+
+- The most used language for Software Developers and Data Engineers is Java. For Data Scientists it is Python, and for Data Analysts it is SQL. C is a close second for all four groups. In terms of databases, MySQL, PostgreSQL, Microsoft SQL server, and SQLite are the top 4 among all groups.
 
 ## Publication <a name="results"></a>
 
